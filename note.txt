@@ -1,0 +1,7 @@
+Our project consists of two main folders.
+
+-The car_prediction_model_project folder contains subheadings such as data scraping, data analysis, and model pipeline.
+
+-The car_prediction_django_project folder contains a website that we have prepared using Django.
+
+Within the folders, there are more detailed information related to each folder.

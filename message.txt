@@ -1,0 +1,36 @@
+Exterior color: The exterior colors of the vehicles.
+Interior color: The interior colors of the vehicles.
+Drivetrain: The drivetrain systems of the vehicles.
+MPG: The fuel consumption of the vehicles in miles per gallon.
+Fuel type: The fuel types used by the vehicles.
+Transmission: The transmission types of the vehicles.
+Engine: The engine specifications of the vehicles.
+VIN: The unique identification numbers of the vehicles.
+Mileage: The mileage of the vehicles.
+Accidents or damage: The accident or damage status of the vehicles (0: No damage, 1: Damaged).
+1-owner vehicle: Whether the vehicles have only one owner (1: Yes, 0: No).
+Personal use only: Whether the vehicles are for personal use only (1: Yes, 0: No).
+Primary Price: The main prices of the vehicles.
+Year: The production years of the vehicles.
+Brand: The brands of the vehicles.
+Model: The models of the vehicles.
+Adaptive Cruise Control: Whether the vehicles have adaptive cruise control (0: No, 1: Yes).
+Heated Seats: Whether the vehicles have heated seats (0: No, 1: Yes).
+Navigation System: Whether the vehicles have a navigation system (1: Yes, 0: No).
+Power Liftgate: Whether the vehicles have a power liftgate (0: No, 1: Yes).
+Remote Start: Whether the vehicles have a remote start feature (0: No, 1: Yes).
+Keyless Start: Whether the vehicles have keyless start feature (0: No, 1: Yes).
+Apple CarPlay/Android Auto: Whether the vehicles have Apple CarPlay/Android Auto feature (0: No, 1: Yes).
+Bluetooth: Whether the vehicles have Bluetooth feature (1: Yes, 0: No).
+USB Port: Whether the vehicles have a USB port (0: No, 1: Yes).
+Alloy Wheels: Whether the vehicles have alloy wheels (1: Yes, 0: No).
+Sunroof/Moonroof: Whether the vehicles have a sunroof/moonroof feature (0: No, 1: Yes).
+Automatic Emergency Braking: Whether the vehicles have automatic emergency braking feature (0: No, 1: Yes).
+Backup Camera: Whether the vehicles have a backup camera (1: Yes, 0: No).
+Stability Control: Whether the vehicles have stability control system (1: Yes, 0: No).
+Leather Seats: Whether the vehicles have leather seats (1: Yes, 0: No).
+Memory Seat: Whether the vehicles have memory seats (0: No, 1: Yes).
+Third Row Seating: Whether the vehicles have third row seating arrangement (0: No, 1: Yes).
+Turbo: Whether the vehicles have a turbo feature (0: No, 1: Yes).
+Engine Size: The engine size of the vehicles.
+Automatic Transmission: Whether the vehicles have an automatic transmission (1: Yes, 0: No).

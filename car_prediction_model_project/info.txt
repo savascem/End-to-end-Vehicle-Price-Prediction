@@ -1,0 +1,24 @@
+# The work in this folder consists of 3 sub-sections:
+
+1 - Scraping data from cars.com with web scraping
+
+    For this project we scraped more than 23000 data for 20 different car models from cars.com.
+    The data was scraped from the related site with beautifulSoup.
+    You can find the related codes in the scraping.py file in the scraping folder.
+
+
+2 - Data processing and Model creation
+
+    We have analysed and processed the data we excavated on cars.com in detail and created many new variables.
+    
+    As the final model, we preferred the LightGBM model.
+    We preferred it because it is a model that can be protected from both working speed and overtraining in large-scale data.
+
+3 - Pipeline
+
+    In this section we integrated our model into a pipeline.
+    
+    * Run the pipeline.py file in the pipeline folder in command promt.
+    * Copy the url address of any vehicle from cars.com and enter it when the model asks you for this input.
+    * enter the path to the model.pkl file in the same folder as input.
+    * You will display the prediction value of our model on the screen according to the characteristics of the related vehicle.

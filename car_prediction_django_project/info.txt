@@ -1,0 +1,8 @@
+# In this folder you will see the model we have prepared integrated into a website.
+
+# To activate the website on your computer with Local Host.
+
+1 - Install the necessary files for the project to run by typing the code " pip install -r requirements.txt " in the terminal
+
+2 - After the necessary installations, type the command " python manage.py runserver " in the terminal.
+    After this command, the website will be running on localhost.
