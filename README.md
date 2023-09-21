@@ -16,3 +16,7 @@ Prepared by:
 * Merve Gamze Cinar : https://www.linkedin.com/in/mervegamzecinar/
 * Cem Savas: https://www.linkedin.com/in/cemsavas/
 * Tuğberk Karan: https://www.linkedin.com/in/tugberkkaran/
+
+## How it Looks
+
+![homepage](pic.png)
